@@ -1,4 +1,4 @@
-# Tp-final-ingenier-a-de-datos-1
+# Tp-final-ingenieria-de-datos-1
 
 --Base de datos integral para empresa de cruceros imaginaria desarrollada en SQL server
 
